@@ -59,7 +59,7 @@ $premium_acc = array();
 //$premium_acc ["upstore_net"] = array('user' => 'your username', 'pass' => 'your password');
 //$premium_acc ["ex-load_com"] = array('user' => 'your username', 'pass' => 'your password');
 //$premium_acc ["datafile_com"] = array('user' => 'your username', 'pass' => 'your password');
-$premium_acc ["1fichier_com"] = array('user' => '1ficher2021@gmail.com', 'pass' => 'M14rS45_H16');
+
 
 ###Premium cookie configuration, dont use this if you have already set another premium account config
 //$premium_acc["hotfile_com"] = array('cookie' => 'your premium cookie');
